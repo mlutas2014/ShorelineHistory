@@ -11,4 +11,4 @@ Outputs can be opened in Excel or other software.
 
 ![Image showing outputs in Excel](docs/images/image017.jpg)
 
-ShorelineHistory Version 1 User Manual  is included as pdf and can also be viewed [as html]http://mlutas2014.github.io/ShorelineHistory/docs/ShorelineHistory_User_Manual_1_0.htm)
+ShorelineHistory Version 1 User Manual  is included as pdf and can also be viewed [as html](docs/ShorelineHistory_User_Manual_1_0.htm)
